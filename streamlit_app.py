@@ -8,10 +8,11 @@ nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 ps =PorterStemmer()
+
 page_bg_img = '''
 <style>
 body {
-background-image: url("https://images.unsplash.com/photo-1542281286-9e0a16bb7366");
+background-image: url("https://media.istockphoto.com/id/1388948315/photo/abstract-colorful-background-brush-strokes-red-orange-yellow-purple-and-blue-colors-artistic.jpg?s=1024x1024&w=is&k=20&c=gj-8tkXjf-9_6gdXEEGAoj-X9ltZ0q4T9v8m7skdY-c=");
 background-size: cover;
 }
 </style>
