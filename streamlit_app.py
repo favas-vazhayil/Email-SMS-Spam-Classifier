@@ -7,8 +7,18 @@ nltk.download('punkt')
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
-
 ps =PorterStemmer()
+page_bg_img = '''
+<style>
+body {
+background-image: url("https://images.unsplash.com/photo-1542281286-9e0a16bb7366");
+background-size: cover;
+}
+</style>
+'''
+
+st.markdown(page_bg_img, unsafe_allow_html=True)
+
 def transform_text(text):
     text=text.lower()   #Converting text into lower case
     text=nltk.word_tokenize(text) #Tokenization
