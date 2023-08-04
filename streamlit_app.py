@@ -12,7 +12,7 @@ ps =PorterStemmer()
 page_bg_img = '''
 <style>
 [data-testid="stAppViewContainer"]{
-background-image: url("https://images.unsplash.com/photo-1598960087461-556c5a1f864a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80");
+background-image: url("https://plus.unsplash.com/premium_photo-1682309572625-791e25352998?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1512&q=80");
 background-size: cover;
 }
 </style>
