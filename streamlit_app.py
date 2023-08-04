@@ -11,8 +11,8 @@ ps =PorterStemmer()
 
 page_bg_img = '''
 <style>
-body {
-background-image: url("https://media.istockphoto.com/id/1388948315/photo/abstract-colorful-background-brush-strokes-red-orange-yellow-purple-and-blue-colors-artistic.jpg?s=1024x1024&w=is&k=20&c=gj-8tkXjf-9_6gdXEEGAoj-X9ltZ0q4T9v8m7skdY-c=");
+[data-testid="stAppViewContainer"]{
+background-image: url("https://images.unsplash.com/photo-1598960087461-556c5a1f864a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80");
 background-size: cover;
 }
 </style>
