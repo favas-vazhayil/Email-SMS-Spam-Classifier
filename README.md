@@ -19,4 +19,4 @@ The Email SMS Spam Classification Project involves the following steps:
 
 **7. Website Local Hosting:** To provide a user-friendly interface for interacting with the spam classification model, a web application is created. This web application is locally hosted, allowing users to input SMS messages and receive the model's prediction (spam or legitimate).
 
-**8. Deployment:** Once the model and web application are ready, they are deployed using streamlit cloud to make them accessible over the internet. Users can then access the website remotely and utilize the spam classification service.
+**8. Deployment:** Once the model and web application are ready, they are deployed using streamlit cloud to make them accessible over the internet. Users can then access the website remotely and utilize the spam classification service. Here is the link of the web app [https://email-sms-spam-classifier.streamlit.app/](url)
