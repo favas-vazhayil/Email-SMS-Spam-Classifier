@@ -1,5 +1,4 @@
 # Email-SMS-Spam-Classifier
-Email/Spam Classification
 During this project, I undertook an machine learning endeavor with the goal of effectively detecting and classifying spam and legitimate SMS messages. For this project, I sourced the SMS Spam Collection Dataset from Kaggle, which provided a carefully curated set of 5,574 SMS messages in English, each labeled as either "ham" (legitimate) or "spam." This dataset served as a valuable resource for my SMS spam research.
 
 The main objective of this project was to develop a robust and accurate spam classification model. To achieve this, I delved into various state-of-the-art machine learning algorithms and employed cutting-edge natural language processing techniques.
